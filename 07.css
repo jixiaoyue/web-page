@@ -191,20 +191,24 @@ ul,li{list-style: none;}
 	font-size: 14px;
 }
 .mulu p a:visited{color: #ff2c18;}
-.footer ul{float: left;margin-right: 190px;}
-.footer ul li:first-child{
-	font-size:16px;
-	margin-bottom: 19px;
+.foot ul{
+	float: left;
+	margin-right: 170px;
+	margin-left:11px;
 }
-.footer ul li a{
-	font-size: 14px;
+.foot ul li:first-child{
+ font-size:18px;
+ margin-bottom:15px;
+}
+.foot ul li a{
 	color: #ffffff;}
-.footer ul li{
+.foot ul li{
 	line-height: 29px;
 }
 .with{text-align: center;}
 .right2 ul{
-	margin-top: 27px;
+	margin-top: 25px;
+	margin-left:5px;
 	display: inline-block;
 }
 .right2 li a{
